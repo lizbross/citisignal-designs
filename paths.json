@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-designs/:/",
-      "/content/citisignal/configuration:/.helix/config.json",
-      "/content/citisignal/metadata:/metadata.json",
-      "/content/citisignal/configs:/configs.json",
-      "/content/citisignals/configs-stage:/configs-stage.json",
-      "/content/citisignal/configs-dev:/configs-dev.json",
-      "/content/citisignal/redirects:/redirects.json",
-      "/content/citisignals/placeholders:/placeholders.json",
-      "/content/citisignal/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignals/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/citisignal-edge-delivery-services-template/:/",
+      "/content/citisignal-edge-delivery-services-template/configuration:/.helix/config.json",
+      "/content/citisignal-edge-delivery-services-template/metadata:/metadata.json",
+      "/content/citisignal-edge-delivery-services-template/configs:/configs.json",
+      "/content/citisignal-edge-delivery-services-template/configs-stage:/configs-stage.json",
+      "/content/citisignal-edge-delivery-services-template/configs-dev:/configs-dev.json",
+      "/content/citisignal-edge-delivery-services-template/redirects:/redirects.json",
+      "/content/citisignal-edge-delivery-services-template/placeholders:/placeholders.json",
+      "/content/citisignal-edge-delivery-services-template/products/recommended-products:/products/recommended-products.json",
+      "/content/citisignal-edge-delivery-services-template/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal",
+      "/content/citisignal-edge-delivery-services-template",
       "/content/dam/citisignal/images/products/"
     ]
 }
